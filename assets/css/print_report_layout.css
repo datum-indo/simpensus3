@@ -1,0 +1,51 @@
+@page {
+	/*size: 8.5in 13in;*/
+	margin: 10mm;
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+
+h4 {
+	font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+strong {
+	font-weight: 700;
+}
+
+table {
+   width:100%;
+   border-collapse: collapse;
+}
+
+th {
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 13px;
+}
+
+td {
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 12px;
+}
+
+.kanan {
+	text-align: right;
+}
+
+.tengah {
+	text-align: center;
+}
+
+p {
+    font-size: 12px;
+	margin: 0 0 5px;
+}

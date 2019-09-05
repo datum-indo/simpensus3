@@ -1,0 +1,1397 @@
+[
+    {
+        "id": "01000000000010",
+        "text": "Legislator, Pejabat, dan Manajer",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "01010000000010",
+                "text": "Legislator dan Pejabat",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "01010100000010",
+                        "text": "Legislator",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "01010200000010",
+                        "text": "Pejabat pemerintah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "01010300000010",
+                        "text": "Kepala Desa atau kepala suku",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "01010400000010",
+                        "text": "Pimpinan Organisasi",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "01010401000010",
+                                "text": "Pimpinan Partai politik",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "01010402000010",
+                                "text": "Pimpinan lembaga ekonomi",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "01010403000010",
+                                "text": "Pimpinan lembaga kemanusiaan",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "01020000000010",
+                "text": "Manajer Perusahaan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "01020100000010",
+                        "text": "Direktur atau Pimpinan Eksekutif",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "01020200000010",
+                        "text": "Manajer Departemen Produksi dan Operasi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "01020300000010",
+                        "text": "Manajer departemen lain",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "01030000000010",
+                "text": "Manajer Umum",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "02000000000010",
+        "text": "Profesional",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "02010000000010",
+                "text": "Profesional di bidang Fisika, Matematika, dan Permesinan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "02010100000010",
+                        "text": "Profesional di bidang Fisika, Kimia, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02010200000010",
+                        "text": "Profesional di bidang Matematika, statistik, dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02010300000010",
+                        "text": "Profesional di bidang Komputer",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02010400000010",
+                        "text": "Profesional di bidang Arsitektur, Mesin, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "02020000000010",
+                "text": "Profesional di bidang Ilmu Alam dan Kesehatan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "02020100000010",
+                        "text": "Profesional di bidang Ilmu Alam",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02020200000010",
+                        "text": "Profesional di bidang Kesehatan (kecuali perawat)",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02020300000010",
+                        "text": "Profesional Perawat dan Paramedik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "02030000000010",
+                "text": "Profesional di bidang pengajaran",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "02030100000010",
+                        "text": "Profesional di bidang pengajaran pendidikan tinggi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02030200000010",
+                        "text": "Profesional di bidang pengajaran pendidikan menengah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02030300000010",
+                        "text": "Profesional di bidang pengajaran pendidikan dasar dan pra sekolah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02030400000010",
+                        "text": "Profesional di bidang pengajaran pendidikan khusus",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02039000000010",
+                        "text": "Profesional di bidang Pengajaran lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "02900000000010",
+                "text": "Profesional lainnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "02900100000010",
+                        "text": "Profesional di bidang bisnis",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02900200000010",
+                        "text": "Profesional di bidang hukum",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "02900201000010",
+                                "text": "Pengacara / advokat",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900202000010",
+                                "text": "Hakim",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "02900300000010",
+                        "text": "Arsiparis, Pustakawan, dan profesional di bidang iinformasi semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "02900400000010",
+                        "text": "Profesional di bdiang Sosial dan ilmu-ilmu semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "02900401000010",
+                                "text": "Ekonom",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900402000010",
+                                "text": "Profesional di bidang Sosiologi, antropologi, dan yang semacamnya",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900403000010",
+                                "text": "Ilmuwan di bidang Filsafat, sejarah, dan politik",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900404000010",
+                                "text": "Filolog, penerjemah, dan interpreter",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900405000010",
+                                "text": "Psikolog",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900406000010",
+                                "text": "Profesional di bidang kerja sosial",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "02900500000010",
+                        "text": "Penulis, dan seniman kreatif dan seniman pertunjukan",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "02900501000010",
+                                "text": "Pengarang, wartawan, dan penulis lainnya",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900502000010",
+                                "text": "Perupa, pelukis, dan seniman lainnya",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900503000010",
+                                "text": "Penulis lagu, pemusik, dan penyanyi",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900504000010",
+                                "text": "Keoreografer dan penari",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "02900505000010",
+                                "text": "aktor dan Sutradara Film, panggung dan semacamnya",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "02900600000010",
+                        "text": "Profesional di bidang agama",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03000000000010",
+        "text": "Profesional di bidang Teknis dan semacamnya",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "03010000000010",
+                "text": "Profesional di bidang Ilmu Fisika dan Permesinan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "03010100000010",
+                        "text": "Teknisi di bidang Fisika dan Ilmu permesinan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03010200000010",
+                        "text": "Profesional di bidang Komputer seperti operator komputer dan helpdesk",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03010300000010",
+                        "text": "Pengawas bidang peralatan optik dan elektronik",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "03010301000010",
+                                "text": "Pengawas di bidang fotografi dan AV",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "03010302000010",
+                                "text": "Pengawas di bidang Penyiaran dan Telekomunikasi",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "03010400000010",
+                        "text": "Teknisi bidang perkapalan dan penerbangan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03010500000010",
+                        "text": "Inspektur bidang mutu dan keamanan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "03020000000010",
+                "text": "Profesional di bidang Ilmu Alam dan Kesehatan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "03020100000010",
+                        "text": "Profesional teknisi di bidang Ilmu alam dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03020200000010",
+                        "text": "Profesional pembantu di bidang keshatan modern (kecuali Perawat)",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03020300000010",
+                        "text": "Profesional perawat dan paramedik Pembantu",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03020400000010",
+                        "text": "Praktisi pengobatan tradisional",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "03030000000010",
+                "text": "Profesional pembantu di bidang pengajaran",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "03030100000010",
+                        "text": "Profesional pembantu di bidang pengajaran pendidikan dasar",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03030200000010",
+                        "text": "Profesional pembantu dibidang pengajaran pendidikan pra sekolah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03030300000010",
+                        "text": "Profesional pembantu di bidang pengajaran pendidikan khusus",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03030400000010",
+                        "text": "Profesional pembantu di bidang pengajaran lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "03040000000010",
+                "text": "Pekerja upahanuntuk organisasi dengan kepentingan khusus",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "03040100000010",
+                        "text": "Pekerja upahan untuk organisasi politik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040200000010",
+                        "text": "Pekerja upahan untuk oragnisasi yang melucuti senjata",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040300000010",
+                        "text": "Pekerja upahan untuk organisasi lingkungan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040400000010",
+                        "text": "Pekerja upahan untuk organisasi hak asasi manusia",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040500000010",
+                        "text": "Pekerja upahan untuk organisasi perdamaian",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040600000010",
+                        "text": "Pekerja upahan untuk serikat pekerja",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040700000010",
+                        "text": "Pekerja upahan untuk organisasi dengan isu perempuan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040800000010",
+                        "text": "Pekerja untuk organisasi agama dan gereja",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03040900000010",
+                        "text": "Pekerja sosial yang dibayar",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03041000000010",
+                        "text": "Pekerja masyarakat yang dibayar",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "03900000000010",
+                "text": "Profesional pembantu lainnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "03900100000010",
+                        "text": "Pekerja bidang keuangan dan penjualan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900200000010",
+                        "text": "Agen jasa bisnis dan broker perdagangan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900300000010",
+                        "text": "Profesional pembantu di bidang pengajaran pendidikan pra sekolah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900400000010",
+                        "text": "Profesional pembantu di bidang pabean, pajak dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900500000010",
+                        "text": "Inspektur polisi dan detektif",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900600000010",
+                        "text": "Profesional pembantu untuk kerja sosial",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900700000010",
+                        "text": "Pekerja seni, hiburan, dan olahraga",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "03900800000010",
+                        "text": "Profesional pembantu untuk agamawan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04000000000010",
+        "text": "Tukang ketik/adminstrasi",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "04010000000010",
+                "text": "Tukang ketik/administrasi kantor",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "04010100000010",
+                        "text": "Sekretaris dan Tukang ketik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "04010200000010",
+                        "text": "Juru hitung",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "04010300000010",
+                        "text": "Juru rekam dan angkutan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "04010400000010",
+                        "text": "Juru surat, pustakawan, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "04010500000010",
+                        "text": "Pekerjaaan administrasi lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "04020000000010",
+                "text": "Layanan pelanggan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "04020100000010",
+                        "text": "Kasir, teller, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "04020200000010",
+                        "text": "Penyedia informasi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "05000000000010",
+        "text": "Pekerja di bidang jasa, pertokoan dan pasar",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "05010000000010",
+                "text": "Pekerja di bidang jasa perlindungan dan pengawal pribadi",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "05010100000010",
+                        "text": "Pramugara/i dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05010200000010",
+                        "text": "Pekerja di bidang jasa restoran dan pemeliharaan rumah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05010300000010",
+                        "text": "Pekerja untuk perawatan pribadi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05010400000010",
+                        "text": "Astrolog, peramal, dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05010500000010",
+                        "text": "Pekerja untuk layanan pribadi lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05010600000010",
+                        "text": "Pekerja di bidang perlindungan",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "05010601000010",
+                                "text": "Pemadam Kebakaran",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "05010602000010",
+                                "text": "Polisi dan polisi wanita",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "05010603000010",
+                                "text": "Sipir penjara",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "05010690000010",
+                                "text": "Pekerja di bidang jasa keamanan lainnya",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "05020000000010",
+                "text": "Wiraniaga, peraga, dan model",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "05020100000010",
+                        "text": "Model peragabusana dan lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05020200000010",
+                        "text": "Peraga dan wiraniaga di toko",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "05020300000010",
+                        "text": "Penjual di pasar",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "06000000000010",
+        "text": "Pekerja handal dalam pertanian dan perikanan",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "06010000000010",
+                "text": "Produsen handal dalam bidang pertanian dan perikanan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "06010100000010",
+                        "text": "Market gardeners and crop growers",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "06010200000010",
+                        "text": "Market-oriented animal producers",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "06010300000010",
+                        "text": "Market-oriented crop and animal producers",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "06010400000010",
+                        "text": "Pekerjaan kehutaan atau yang terkait",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "06010500000010",
+                        "text": "Pekerja perikanan, pemburu dan penjebak",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "06020000000010",
+                "text": "Buruh subsisten di bidang pertanian dan perikanan",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "07000000000010",
+        "text": "Buruh pembuat kerajinan dan perdagangan yang semacamnya",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "07010000000010",
+                "text": "Buruh yang bekerja ddalam bidang penggalian dan pembangunan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "07010100000010",
+                        "text": "Penambang, pengukir batu, dan pengukir kayu",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07010200000010",
+                        "text": "Buruh yang bekerja dalam pembangunan frame dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07010300000010",
+                        "text": "Buruh yang bekerja dalam finishing pekerjaan dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07010400000010",
+                        "text": "Buruh yang bekerja dalam membuat struktur bangunan, pembersih, dan pengecat, serta yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "07020000000010",
+                "text": "Buruh yang bekerja di bidang perlogaman dan permesinan dan yang semacamnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "07020100000010",
+                        "text": "Buruh yang bekerja dalam metal moulders, welders, sheet metal, dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07020200000010",
+                        "text": "Buruh yang bekerja di bidang pembuatan peralatan, tukang besi, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07020300000010",
+                        "text": "Tukang bongkar pasang mesin",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07020400000010",
+                        "text": "Tukang bongkar pasang alat-alat elektronik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "07030000000010",
+                "text": "Buruh yang bekerja membuat barang-barang kerajinan dan yang semacamnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "07030100000010",
+                        "text": "Buruh yang membuat barang-barang logam dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07030200000010",
+                        "text": "Buruh yang membuat alat-alat dari keramik, gerabah, dan pecah belah dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07030300000010",
+                        "text": "Buruh yang membuat kerajinan dari kayu, kulit, tekstil, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07030400000010",
+                        "text": "Buruh yang bekerja di bidang percetakan dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "07040000000010",
+                "text": "Buruh yang bekerja di bidang kerajinan dan yang semacamnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "07040100000010",
+                        "text": "Buruh yang bekerja di bidang pembuatan makanan dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07040200000010",
+                        "text": "Buruh yang bekerja di bidang penggergajian kayu, pembuatan lemari, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07040300000010",
+                        "text": "Buruh yang bekerja di bidang tekstil, garmen, dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "07040400000010",
+                        "text": "Buruh yang bekerja di bidang pembuatan barang-barang dari kulit, sepatu, dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "08000000000010",
+        "text": "Operator mesin dan pemasangan mesin dan yang semacamnya",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "08010000000010",
+                "text": "Operator pemasanagan stationary dan semacamnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "08010100000010",
+                        "text": "Operator alat-alat pemasangan/pengolahan pertambangan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010200000010",
+                        "text": "Operator pengolahan/pemasangan alat-alat dari logam",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010300000010",
+                        "text": "Operator alat-alat pembuatan keramik atau pecah belah dan yang semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010400000010",
+                        "text": "Operator alat-alat pembuatan barang-barang dari kayu atau kertas",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010500000010",
+                        "text": "Operator alat proses kimia",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010600000010",
+                        "text": "Operator pembangkit tenaga listrik atau yang terkait",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08010700000010",
+                        "text": "Automated assembly-line and industrial-robot operators",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "08020000000010",
+                "text": "Operator mesin dan perakitan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "08020100000010",
+                        "text": "Operator mesin produksi metal dan mineral",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020200000010",
+                        "text": "Operator mesin produk kimia",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020300000010",
+                        "text": "Operator mesin produk karet-dan plastik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020400000010",
+                        "text": "Operator mesin produks kayu",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020500000010",
+                        "text": "Operator mesin produk percetakan-bungkus dan kertas",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020600000010",
+                        "text": "Operator mesin produk tekstil,-bulu dan kulit",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020700000010",
+                        "text": "Operator mesin produk makan dan yang terkait",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08020800000010",
+                        "text": "Perakitan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08029000000010",
+                        "text": "Operator mesin dan perakitan lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "08030000000010",
+                "text": "Supir atau Operator mesin mobil",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "08030100000010",
+                        "text": "Masinis kereta dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08030200000010",
+                        "text": "Supir kendaraan bermesin motor",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "08030201000010",
+                                "text": "Supir ojek motor",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "08030202000010",
+                                "text": "Supir mobil, taksi, dan van ringan",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "08030203000010",
+                                "text": "Supir bis dan trem",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "08030204000010",
+                                "text": "Pengemudi truk/kendaraan berat.",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "08030300000010",
+                        "text": "Operator peralatan di bidang pertanian, pengeruk dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "08030400000010",
+                        "text": "Anak buah kapal dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09000000000010",
+        "text": "Pekerjaan-pekerjaan yang bersfat elementer",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "09010000000010",
+                "text": "Sales and services elementary occupations",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "09010100000010",
+                        "text": "Penjual keliling dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09010101000010",
+                                "text": "Penjual makanan keliling",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09010102000010",
+                                "text": "Penjual produk lainnya dari rumah ke rumah",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09010103000010",
+                                "text": "Penjual dari rumah ke rumah dan melalui telepon",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "09010200000010",
+                        "text": "Tukang semir sepatu dan pekerja jalanan lainnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "09010300000010",
+                        "text": "Pembantu rumah tangga termasuk memasak",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09010301000010",
+                                "text": "Pembantu rumah tangga",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09010302000010",
+                                "text": "Pembantu dan tukang bersih-bersih kantor dan hotel",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09010303000010",
+                                "text": "Buruh cuci pakaian",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "09010400000010",
+                        "text": "Pekerja di bidang pembersihan dan pemeliharaan gedung",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "09010500000010",
+                        "text": "Kurir, pengawas dan penjaga keamanan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "09010600000010",
+                        "text": "Pekerja di bidang pengumpulan sampah/pemulung dan semacamnya",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "09020000000010",
+                "text": "pekerja di bidang pertanian, perikanan dan semacamnya",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "09020100000010",
+                        "text": "Pekerja di bidang pertanian, kehutanan, dan perikanan",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09020101000010",
+                                "text": "Pekerja dan petrenak",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09020102000010",
+                                "text": "Pekerja di bidang Kehutanan",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09020103000010",
+                                "text": "Pekerja di bidang perikan, dan perburuan",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "09030000000010",
+                "text": "Pekerja di bidang pertambangan, konstruksi, manufaktur, dan angkutan",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "09030100000010",
+                        "text": "Pekerja di bidang pertambangan dan konstruksi",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09030101000010",
+                                "text": "Pekerja di bidang pertambangan dan penggalian",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09030102000010",
+                                "text": "Pekerja di bidang konstruksi dan pemeliharaan",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09030103000010",
+                                "text": "Pekerja di bidang konstruksi gedung",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "09030200000010",
+                        "text": "Pekerja di bidang manufaktur",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09030201000010",
+                                "text": "Pekerja di bidang pemasangan alat",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09030202000010",
+                                "text": "Hand packers and other manufacturing labourers",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "09030300000010",
+                        "text": "Pekerja di bidang angkutan",
+                        "iconCls": "icon-blank",
+                        "children": [
+                            {
+                                "id": "09030301000010",
+                                "text": "Pengemudi becak",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09030302000010",
+                                "text": "Supir dan operator mesin untuk pemotongan hewan",
+                                "iconCls": "icon-blank"
+                            },
+                            {
+                                "id": "09030303000010",
+                                "text": "Pekerja bongkat muat",
+                                "iconCls": "icon-blank"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "09090000000010",
+                "text": "Buruh harian temporer",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "10000000000010",
+        "text": "Angkatan Bersenjata",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "10010000000010",
+                "text": "Angkatan Darat",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "10020000000010",
+                "text": "Angkatan Laut",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "10030000000010",
+                "text": "Angkatan Udara",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "10040000000010",
+                "text": "Kekuatan Pertahanan / Hansip",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "10110000000010",
+                "text": "Gerilyawan",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "90000000000010",
+        "text": "Lainnya",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "90010000000010",
+                "text": "Pensiun",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "90020000000010",
+                "text": "Pengangguran",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "90030000000010",
+                "text": "Pelajar",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "90030100000010",
+                        "text": "Mahasiswa universitas atu sekolah tinggi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "90040000000010",
+                "text": "Pengemis, dan pedagang asongan",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "90050000000010",
+                "text": "Orang-orang yang bekerja dalam prostitusi",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "90060000000010",
+                "text": "Relawan untuk organisasi dengan kepentingan khusus",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "90060100000010",
+                        "text": "Relawan untuk organisasi politik",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060200000010",
+                        "text": "Relawan untuk organisai yang melucuti persenjataan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060300000010",
+                        "text": "Relawan untuk oragnisasi lingkungan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060400000010",
+                        "text": "Relawan pekerka untuk organisasi hak asasi manusia",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060500000010",
+                        "text": "Relawan untuk organisasi perdamaian",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060600000010",
+                        "text": "Relawan untuk pekerja serikat buruh",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060700000010",
+                        "text": "Relawan untuk koperasi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060800000010",
+                        "text": "Relawan pekerja untuk isu perempuan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90060900000010",
+                        "text": "Relawan pekerja untuk agama",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90061000000010",
+                        "text": "Relawan pekerja sosial",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "90061100000010",
+                        "text": "Relawan Pekerja masyarakat",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "98000000000010",
+        "text": "Tidak tersedia",
+        "iconCls": "icon-blank",
+        "children": []
+    },
+    {
+        "id": "99000000000010",
+        "text": "Tidak diketahui",
+        "iconCls": "icon-blank",
+        "children": []
+    }
+]

@@ -1,0 +1,75 @@
+@page {
+	/*size: 8.5in 13in;*/
+	margin: 10mm;
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+
+h4 {
+	font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+strong {
+	font-weight: 700;
+}
+
+.identity {
+   width:100%;
+   border-collapse: collapse;
+}
+
+.tr-identity {
+	border-collapse: collapse;
+	border: none;
+	padding: 2px;
+	font-size: 14px;
+}
+
+.td-col-2{
+	width:150px;
+} 
+
+.td-col-3{
+	width:220px;
+}
+
+.td-col-4{
+	width:100px;
+}
+
+.list {
+   width:100%;
+   border-collapse: collapse;
+}
+
+.th-list {
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 13px;
+}
+
+.td-list {
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 12px;
+}
+
+.kanan {
+	text-align: right;
+}
+
+.tengah {
+	text-align: center;
+}
+
+p {
+    font-size: 12px;
+	margin: 0 0 5px;
+}

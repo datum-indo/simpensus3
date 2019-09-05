@@ -1,0 +1,247 @@
+[
+    {
+        "id": "241204000001",
+        "text": "Entitas pemerintah",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "241204000101",
+                "text": "Eksekutif",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010101",
+                        "text": "Pejabat tingkat nasional",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204020101",
+                        "text": "Pejabat pemerintah lokal",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204030101",
+                        "text": "Pasukan bersenjata",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204040101",
+                        "text": "Polisi",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204050101",
+                        "text": "Pejabat penjara",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204060101",
+                        "text": "Agen intelejen; dinas rahasia",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000201",
+                "text": "Legislatif",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "241204000301",
+                "text": "Peradilan",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "241204000002",
+        "text": "Entitas non-pemerintah",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "241204000102",
+                "text": "Pasukan pro-pemerintah",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010102",
+                        "text": "Pasukan paramiliter",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204020102",
+                        "text": "kelompok vigilante; pasukan pembunuh",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000202",
+                "text": "Pasukan oposisi",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010202",
+                        "text": "Tentara gerilyawan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000302",
+                "text": "Warlords, private armies",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "241204000402",
+                "text": "Penjaga keamanan swasta",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "241204000502",
+                "text": "Kumpulan sipil",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "241204009002",
+                "text": "Pasukan non pemerintah lainnya yang terlibat",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "241204000003",
+        "text": "Pasukan penjajah",
+        "iconCls": "icon-blank",
+        "children": []
+    },
+    {
+        "id": "241204000011",
+        "text": "Individu/kelompok dalam posisi yang",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "241204000111",
+                "text": "Individu/kelompok dalam posisi yang memiliki",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010111",
+                        "text": "Pasangan",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000211",
+                "text": "Individu/kelompok swasta dalam posisi yang",
+                "iconCls": "icon-blank",
+                "children": []
+            },
+            {
+                "id": "241204000311",
+                "text": "Individu/kelompok swasta dalam posisi yang",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010311",
+                        "text": "Pegawai",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204020311",
+                        "text": "Supervisor",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000411",
+                "text": "Individu/kelompok swasta dalam posisi yang",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010411",
+                        "text": "Administrator sekolah",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000511",
+                "text": "Profesional menjalankan kegiatan dengan",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "241204000021",
+        "text": "Organisasi komersial",
+        "iconCls": "icon-blank",
+        "children": [
+            {
+                "id": "241204000121",
+                "text": "Korporasi",
+                "iconCls": "icon-blank",
+                "children": [
+                    {
+                        "id": "241204010121",
+                        "text": "Korporasi lokal atau nasional",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    },
+                    {
+                        "id": "241204020121",
+                        "text": "Korporasi Transnasional",
+                        "iconCls": "icon-blank",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "241204000221",
+                "text": "Pemilik tanah, pemilik ladang",
+                "iconCls": "icon-blank",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "241204000031",
+        "text": "Institusi keuangan internasional",
+        "iconCls": "icon-blank",
+        "children": []
+    },
+    {
+        "id": "241204000090",
+        "text": "Lainnya",
+        "iconCls": "icon-blank",
+        "children": []
+    },
+    {
+        "id": "241204000099",
+        "text": "Tidak diketahui",
+        "iconCls": "icon-blank",
+        "children": []
+    }
+]
